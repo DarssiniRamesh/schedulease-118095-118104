@@ -9,7 +9,7 @@ void main() {
 // PUBLIC_INTERFACE
 class MyApp extends StatelessWidget {
   /// The root widget for the Calendar App.
-  const MyApp({Key? key}) : super(key: key);
+  const MyApp({super.key});
 
   @override
   Widget build(BuildContext context) {
