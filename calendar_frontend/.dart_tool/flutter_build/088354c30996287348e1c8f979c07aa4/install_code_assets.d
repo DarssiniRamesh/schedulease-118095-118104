@@ -1,0 +1,1 @@
+ /home/kavia/workspace/code-generation/schedulease-118095-118104/calendar_frontend/.dart_tool/flutter_build/088354c30996287348e1c8f979c07aa4/native_assets.json: 
